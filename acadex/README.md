@@ -48,3 +48,7 @@ Percentages: assignment completion is submitted over assignments that are past d
 - The trained machine-learning risk model from the deck (an offline pipeline; a transparent rule-based score is used).
 - Real browser push delivery and antivirus scanning of uploads.
 - Pushing to GitHub is up to you.
+
+## Contributors
+
+- **Atharv Joshi** — [atharvjoshi944-netizen](https://github.com/atharvjoshi944-netizen)
